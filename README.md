@@ -45,4 +45,3 @@ Now I don't know how to quit !
 - 📫 How to reach me:
    - [Email: vikaschauhan054@gmail.com](mailto:vikaschauhan054@gmail.com)
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I am also a live musician(bassist)
