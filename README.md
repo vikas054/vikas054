@@ -43,8 +43,6 @@ Now I don't know how to quit !
 - 🔭 I’m currently working on Metronome project on JavaScript
 - 💬 Ask me about tech, music and history
 - 📫 How to reach me:
-   - [Email: prajwal11@duck.com](mailto:prajwal11@duck.com)
-   - [Twitter: @an_alive_human](https://twitter.com/an_alive_human)
-   - [Linkedin: /prajwal11](https://www.linkedin.com/in/prajwal11/)
+   - [Email: vikaschauhan054@gmail.com](mailto:vikaschauhan054@gmail.com)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I am also a live musician(bassist)
